@@ -1,0 +1,14 @@
+
+----------------------Synoptic Data-------------------------------------------------------------------
+
+Measurements/ data	: Synoptic
+Parameters		: Observation Time,  wind direction, wind speed, temparature, MSLP
+Duration		: 05-05-2016 to	02-08-2021
+Location		: Bharati
+Latitude and Longitude	: 69°24.41'S, 76°11.72'E
+Data file format	: ASCII
+
+------------------------------------------------------------------------------------------------------
+
+
+
